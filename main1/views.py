@@ -1,4 +1,3 @@
-#from django.shortcuts import render
 from django.views.generic import ListView
 from main1.models import Home, About, service, contact_us
 
